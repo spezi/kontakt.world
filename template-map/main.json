@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kontakt-bamberg.de\/"
+                 "value":"index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
