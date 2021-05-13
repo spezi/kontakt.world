@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"big.json#start"
+                 "value":"other.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
