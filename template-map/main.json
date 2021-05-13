@@ -465,19 +465,6 @@
          "tilecount":91,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":12,
-         "firstgid":3045,
-         "image":"..\/..\/workadventure-xce\/maps\/Village\/sol_inte\u0301rieur.png",
-         "imageheight":288,
-         "imagewidth":384,
-         "margin":0,
-         "name":"sol_inte\u0301rieur",
-         "spacing":0,
-         "tilecount":108,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
