@@ -164,7 +164,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/bamberg.json"
+                 "value":"..\/..\/bamberg.json"
                 }],
          "type":"tilelayer",
          "visible":true,

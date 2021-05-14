@@ -164,7 +164,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/bamberg.json#start-bcksp"
+                 "value":"..\/..\/bamberg.json#start-bcksp"
                 }],
          "type":"tilelayer",
          "visible":true,
