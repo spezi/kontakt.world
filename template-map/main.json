@@ -164,7 +164,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"other.json#start"
+                 "value":"..\/bamberg.json"
                 }],
          "type":"tilelayer",
          "visible":true,
