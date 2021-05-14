@@ -517,7 +517,7 @@
         {
          "name":"exitSceneUrl",
          "type":"string",
-         "value":"..\/bamberg.json"
+         "value":"..\/..\/bamberg.json"
         }],
  "renderorder":"right-down",
  "tiledversion":"2021.02.15",
