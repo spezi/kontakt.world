@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"asta\/main.json"
+                 "value":"maps\/asta\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"juz\/main.json"
+                 "value":"maps\/juz\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"machbar\/main.json"
+                 "value":"maps\/machbar\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"kontakt\/main.json"
+                 "value":"maps\/kontakt\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"bcksp\/main.json"
+                 "value":"maps\/bcksp\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"kafka\/main.json"
+                 "value":"maps\/kafka\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
