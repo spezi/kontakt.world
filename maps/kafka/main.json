@@ -86,7 +86,7 @@
                 {
                  "name":"playVideo",
                  "type":"string",
-                 "value":"https:\/\/musi.kontakt.world:8080\/musi\/live..m3u8"
+                 "value":"https:\/\/musi.kontakt.world:8080\/musi\/live.m3u8"
                 }],
          "type":"tilelayer",
          "visible":true,
